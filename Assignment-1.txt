@@ -1,0 +1,67 @@
+Assignment - 1
+Q1 . In the below elements which of them are values or an expression? eg:- values can be integer or string and expressions will be mathematical operators.
+
+	*	:- expression
+	'hello' :- value
+	-87.8   :- value
+	-	:- expression
+	/	:- expression
+	+	:- expression
+	6	:- value
+
+
+Q2. What is the difference between string and variable?
+	String   :- string is a type of value whcih can be stored in a variable.
+	Variable :- variable is used to store information or value in a program.
+	Example:- A = 'mounika'
+		  Here A is a variable used to store the string value 'mounika'.
+
+Q3. Describe three different data types.
+	Types of datatypes:-
+	1. Integer   :- stores numbers 
+	2. Character :- stores alphabets
+	3. Boolean   :- true or false , yes or no
+
+
+Q4. What is an expression made up of? What do all expressions do?
+A.  An expression is a combination of operators,operands and variables that is interpreted to produce some other value.
+
+
+Q5. This assignment statements, like spam = 10. What is the difference between an expression and a statement?
+A.  Expression is made up of values, containers, and mathematical operators (operands) and the statement is just like a command that a python interpreter 
+    like print.
+
+
+Q6. After running the following code, what does the variable bacon contain?
+    bacon = 22
+    bacon + 1
+A.  23
+ 
+
+Q7. What should the values of the following two terms be?
+    'spam' + 'spamspam'
+    'spam' * 3
+A.  'spamspamspam'
+    'spamspamspam'
+    Values of both are same.
+
+
+Q8. Why is eggs a valid variable name while 100 is invalid?
+A.  We cannot give variable names an integer because as an integer is a value that could be stored in a variable. if we are supposed to give a variable
+    name an integer then we can start with single alphabet followed by integer. ex:- e100 or a100 ,....  
+
+
+Q9. What three functions can be used to get the integer, floating-point number, or string version of a value?
+A.  int(),float(),str()
+
+
+Q10. Why does this expression cause an error? How can you fix it?
+     'I have eaten'+99+'burritos.'
+A.   This expression causes a type error.Because only string values can be concatenated, here 99 is an integer to make it a string we will use '99'.
+     corrected expression :- 'I have eaten'+'99'+'burritos'
+
+
+
+
+
+	
