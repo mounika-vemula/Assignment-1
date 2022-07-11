@@ -1,7 +1,7 @@
 Assignment - 1
 Q1 . In the below elements which of them are values or an expression? eg:- values can be integer or string and expressions will be mathematical operators.
 
-	*	:- expression
+A.	*	:- expression
 	'hello' :- value
 	-87.8   :- value
 	-	:- expression
@@ -11,13 +11,13 @@ Q1 . In the below elements which of them are values or an expression? eg:- value
 
 
 Q2. What is the difference between string and variable?
-	String   :- string is a type of value whcih can be stored in a variable.
+A.	String   :- string is a type of value whcih can be stored in a variable.
 	Variable :- variable is used to store information or value in a program.
 	Example:- A = 'mounika'
 		  Here A is a variable used to store the string value 'mounika'.
 
 Q3. Describe three different data types.
-	Types of datatypes:-
+A.	Types of datatypes:-
 	1. Integer   :- stores numbers 
 	2. Character :- stores alphabets
 	3. Boolean   :- true or false , yes or no
